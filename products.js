@@ -43,6 +43,7 @@ window.PRODUCTS = [
     price: 850,
     category: "Вареники2",
     weight: "1 кг",
+    
   image: "./assets/pelmeni_400kb.png",
 gallery: [
   "./assets/pelmeni_400kb.png"
