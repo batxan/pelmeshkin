@@ -44,9 +44,9 @@ window.PRODUCTS = [
     category: "Манты",
     weight: "1 кг",
     
-  image: "./assets/Semion Batkhan (2).png",
+  image: "./assets/Semion Batkhan (2).jpg",
 gallery: [
-  "./assets/Semion Batkhan (2).png"
+  "./assets/Semion Batkhan (2).jpg"
 ],
     description: "Вареники с нежной картофельной начинкой.",
     ingredients: "Картофель, лук, тесто, соль, специи.",
