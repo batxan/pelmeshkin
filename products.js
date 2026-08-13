@@ -41,7 +41,7 @@ window.PRODUCTS = [
     id: 3,
     name: "Манты, 1 кг",
     price: 850,
-    category: "Манты",
+    category: "Манты1",
     weight: "1 кг",
     
   image: "./assets/pelmeni_400kb.png",
