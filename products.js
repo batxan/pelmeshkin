@@ -39,7 +39,7 @@ window.PRODUCTS = [
   
   {
     id: 3,
-    name: "Вареники с картошкой, 1 кг",
+    name: "Манты", 1 кг",
     price: 850,
     category: "Вареники2",
     weight: "1 кг",
