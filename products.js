@@ -54,4 +54,21 @@ gallery: [
   },
 
   
+   {
+    id: 4,
+    name: "Gizyaka, 1 кг",
+    price: 850,
+    category: "Манты2",
+    weight: "1 кг",
+    
+  image: "./assets/Semion Batkhan (2).jpg",
+gallery: [
+  "./assets/Semion Batkhan (2).jpg"
+],
+    description: "Вареники с нежной картофельной начинкой.",
+    ingredients: "Картофель, лук, тесто, соль, специи.",
+    storage: "Хранить в морозильной камере при -18°C."
+  },
+
+  
 ];
