@@ -43,10 +43,16 @@ window.PRODUCTS = [
     price: 850,
     category: "Вареники2",
     weight: "1 кг",
-    image: "https://images.unsplash.com/photo-1541014741259-de529411b96a?auto=format&fit=crop&w=600&q=80",
-    gallery: [
-      "https://images.unsplash.com/photo-1541014741259-de529411b96a?auto=format&fit=crop&w=600&q=80"
-    ],
+
+
+    
+  image: "./assets/pelmeni_85kb.png",
+gallery: [
+  "./assets/pelmeni_85kb.png"
+],
+
+
+    
     description: "Вареники с нежной картофельной начинкой.",
     ingredients: "Картофель, лук, тесто, соль, специи.",
     storage: "Хранить в морозильной камере при -18°C."
