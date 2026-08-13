@@ -46,9 +46,9 @@ window.PRODUCTS = [
 
 
     
-  image: "./assets/pelmeni_85kb.png",
+  image: "./assets/pelmeni_400kb.png",
 gallery: [
-  "./assets/pelmeni_85kb.png"
+  "./assets/pelmeni_400kb.png"
 ],
 
 
